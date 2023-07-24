@@ -1,0 +1,10 @@
+
+/* file to add styles to the index2.file */
+.header{
+    background-color: lightyellow;
+    border: 1px dotted black;
+}
+#education-details{
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
